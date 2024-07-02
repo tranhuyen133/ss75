@@ -1,0 +1,42 @@
+{
+  "listProduct": [
+    {
+      "id": 1,
+      "nameProduct": "túi",
+      "description": "túi cực xin, siêu rẻ",
+      "total": 20,
+      "price": "$3000",
+      "img": "https://rubystore.com.vn/wp-content/uploads/2021/07/tui-dior-30-montaigne-bag-blue-oblique-jacquard-24cm-best-quality.jpg",
+      "status": true
+    },
+    {
+      "id": 2,
+      "nameProduct": "áo",
+      "description": "áo thời trang, chất lượng cao",
+      "total": 15,
+      "price": "$2500",
+      "img": "https://hotgirlshop.com/uploads/picture/07022022/News/2027215755-ao-thun-lv-chinh-hang.jpg",
+      "status": true
+    },
+    {
+      "id": 3,
+      "nameProduct": "giày",
+      "description": "giày thời trang, bền và đẹp",
+      "total": 10,
+      "price": "$4000",
+      "img": "https://capvirgo.com/wp-content/uploads/2019/12/a1565937242194_3452.jpg",
+      "status": false
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "nameProduct": "túi",
+      "description": "túi cực xin, siêu rẻ",
+      "total": "1",
+      "price": "$3000",
+      "img": "https://rubystore.com.vn/wp-content/uploads/2021/07/tui-dior-30-montaigne-bag-blue-oblique-jacquard-24cm-best-quality.jpg",
+      "status": true
+    }
+  ]
+}
